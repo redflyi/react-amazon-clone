@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `Firebase.js`
+
+Needs a Firebase.js file to input Firebase config
+
 ## Available Scripts
 
 In the project directory, you can run:
